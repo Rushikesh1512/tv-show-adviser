@@ -1,0 +1,19 @@
+.container{
+
+width: 300px;
+
+}
+.title{
+position:absolute;
+margin-top:-40px;
+height:40px;
+width: 300px;
+padding-left:20px;
+padding-top:8px;
+background-color: black;
+
+}
+.img{
+border-radius:10px;
+
+}
